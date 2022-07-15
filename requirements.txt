@@ -1,4 +1,2 @@
-
-streamlit
-sudo pip install cffi==1.5.2
+cffi==1.5.2
 snowflake-connector-python
