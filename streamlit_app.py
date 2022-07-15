@@ -1,4 +1,5 @@
 import streamlit
+sudo apt-get install python-cffi
 
    
 streamlit.header('Breakfast Favorites')
