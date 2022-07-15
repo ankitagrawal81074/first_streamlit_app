@@ -1,4 +1,4 @@
 #requirements.txt
 
-pip install --upgrade pip
+streamlit==1.4.0
 snowflake-connector-python
