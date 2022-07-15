@@ -1,5 +1,0 @@
-#requirements.txt
-
-streamlit==1.4.0
-cffi==1.15.1
-snowflake-connector-python
